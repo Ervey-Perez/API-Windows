@@ -1,2 +1,2 @@
-# API-Windows
-API que utiliza una base de datos por medio de los verbos http.
+# Introduccion-API
+Introducción al uso de una API junto con Express.

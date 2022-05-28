@@ -1,0 +1,29 @@
+{
+  "name": "introduccion-api",
+  "version": "1.0.0",
+  "description": "Introducción al uso de una API junto con Express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ervey-Perez/Introduccion-API.git"
+  },
+  "keywords": [
+    "API",
+    "HTTP",
+    "Express"
+  ],
+  "author": "Ervey Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ervey-Perez/Introduccion-API/issues"
+  },
+  "homepage": "https://github.com/Ervey-Perez/Introduccion-API#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mssql": "^8.1.0",
+    "mysql": "^2.18.1"
+  }
+}
